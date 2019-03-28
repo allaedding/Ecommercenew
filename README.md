@@ -1,10 +1,10 @@
-#ecommerce application using android studio 
+#Ecommerce application using android studio 
 
 this android app is divide three parts :
 
 ##1)database "SQL server"
 
-link : https://github.com/allaedding/Ecommercenew/blob/master/ecommerce-web-service/Sql-server-BDD
+link : https://github.com/allaedding/ecommerce-web-service/tree/master/Sql%20server%20BDD
 
 ##2)Webservice "c#"
 
