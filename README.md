@@ -1,6 +1,6 @@
 # Ecommerce application using android studio 
 
-this android app is divide three parts :
+this android app is divided into three parts :
 
 ## 1)database "SQL server"
 
